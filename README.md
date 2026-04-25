@@ -1,4 +1,4 @@
-# Data-Structure-2
+# Data-Structure
 Data structure course focusing on binary trees, AVL and hash tables.
 
 # Estrutura de dados
